@@ -2,7 +2,7 @@
 
 ---
 
-This repo hosts the codes for (incomplete) multi-view clustering.
+This repo hosts the codes for (incomplete) multi-view clustering papers.
 
 ---
 
