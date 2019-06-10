@@ -23,5 +23,5 @@ This repo hosts the codes for (incomplete) multi-view clustering papers.
 
 > **Multi-view Clustering via Concept Factorization with Local Manifold Fegularization**,<br/>
 > Hao Wang, Yan Yang, and Tianrui Li. 2016. <br/>
-> _IEEE International Conference on Data Mining (ICDM-2016)_.<br/>
+> _Proceedings of IEEE International Conference on Data Mining (ICDM-2016)_.<br/>
 > [ [pdf](https://ieeexplore.ieee.org/abstract/document/7837980) ]  [ [code](https://github.com/vast-wang/Clustering) ] 
